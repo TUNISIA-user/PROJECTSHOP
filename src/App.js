@@ -7,7 +7,7 @@ import Store from "./components/Store";
 import About from "./components/About";
 import Navbar from "./components/Navbar";
 import ShoppingCartProvider from "./context/ShoppingCartContext";
-
+// @ founder NahdiGyath
 export default function App() {
   return (
     <ShoppingCartProvider>
